@@ -1,0 +1,1 @@
+This program sorts an array elements into ascending order.

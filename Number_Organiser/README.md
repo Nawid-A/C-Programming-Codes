@@ -1,0 +1,1 @@
+Using pointers and a single function, the following algorithm takes 3 user inputted arguments and sorts them in ascending order while also stating the highest, lowest, and middle number out of the three.

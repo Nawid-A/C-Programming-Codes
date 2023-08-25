@@ -1,0 +1,1 @@
+This algorithm utilizes recursion to determine whether a sentence is a palindrome or not

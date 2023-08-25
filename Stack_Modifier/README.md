@@ -1,0 +1,1 @@
+The following program uses arrays to demonstrate how data allocation in a stack works. the pop function removes one of the plates of data from the bottom of the stack and the push function places the data plate at the top of the stack.
